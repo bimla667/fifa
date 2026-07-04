@@ -1,5 +1,5 @@
 # AI Company Research Assistant
-
+https://github.com/bimla667/fifa/blob/main/Screenshot%202026-07-04%20160739.png
 A production-quality AI-powered company research tool. Enter a company name or website URL and get an instant structured report including summary, products, services, pain points, and competitors — with auto PDF generation and Discord delivery.
 
 ## Features
@@ -12,7 +12,9 @@ A production-quality AI-powered company research tool. Enter a company name or w
 - **Discord integration** — Auto-uploads PDF to your Discord channel
 
 ---
-
+<img src="Screenshot%202026-07-04%20160739.png" width="700" alt="Dashboard">
+<img src="Screenshot%202026-07-04%20160739.png" width="700" alt="Dashboard">
+<img src="Screenshot%202026-07-04%20160739.png" width="700" alt="Dashboard">
 ## Stack
 
 | Layer     | Tech                          |
