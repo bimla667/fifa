@@ -13,8 +13,8 @@ A production-quality AI-powered company research tool. Enter a company name or w
 
 ---
 <img src="Screenshot%202026-07-04%20160739.png" width="700" alt="Dashboard">
-<img src="Screenshot%202026-07-04%20160739.png" width="700" alt="Dashboard">
-<img src="Screenshot%202026-07-04%20160739.png" width="700" alt="Dashboard">
+<img src="Screenshot%202026-07-04%20160802.png" width="700" alt="Dashboard">
+<img src="Screenshot%202026-07-04%20160813.png" width="700" alt="Dashboard">
 ## Stack
 
 | Layer     | Tech                          |
